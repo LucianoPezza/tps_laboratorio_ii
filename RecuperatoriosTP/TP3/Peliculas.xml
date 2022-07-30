@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPeliculas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Peliculas>
+    <ID>1</ID>
+    <Titulo>La sociedad de los poetas muertos</Titulo>
+    <Genero>Drama/Comedia</Genero>
+    <Recaudado>0</Recaudado>
+    <EntradasDisponibles>30</EntradasDisponibles>
+  </Peliculas>
+  <Peliculas>
+    <ID>2</ID>
+    <Titulo>Whiplash</Titulo>
+    <Genero>Drama/Musica</Genero>
+    <Recaudado>0</Recaudado>
+    <EntradasDisponibles>30</EntradasDisponibles>
+  </Peliculas>
+  <Peliculas>
+    <ID>3</ID>
+    <Titulo>Terminator</Titulo>
+    <Genero>Accion</Genero>
+    <Recaudado>0</Recaudado>
+    <EntradasDisponibles>30</EntradasDisponibles>
+  </Peliculas>
+  <Peliculas>
+    <ID>4</ID>
+    <Titulo>Morbius</Titulo>
+    <Genero>Comedia</Genero>
+    <Recaudado>0</Recaudado>
+    <EntradasDisponibles>30</EntradasDisponibles>
+  </Peliculas>
+  <Peliculas>
+    <ID>5</ID>
+    <Titulo>Perfume de mujer</Titulo>
+    <Genero>Drama/Comedia</Genero>
+    <Recaudado>0</Recaudado>
+    <EntradasDisponibles>30</EntradasDisponibles>
+  </Peliculas>
+  <Peliculas>
+    <ID>6</ID>
+    <Titulo>El señor de los anillos</Titulo>
+    <Genero>Accion/Fantasia</Genero>
+    <Recaudado>0</Recaudado>
+    <EntradasDisponibles>30</EntradasDisponibles>
+  </Peliculas>
+  <Peliculas>
+    <ID>7</ID>
+    <Titulo>Jhon Weak</Titulo>
+    <Genero>Comedia/Parodia</Genero>
+    <Recaudado>0</Recaudado>
+    <EntradasDisponibles>30</EntradasDisponibles>
+  </Peliculas>
+  <Peliculas>
+    <ID>8</ID>
+    <Titulo>Jhon Wick</Titulo>
+    <Genero>Accion/Neon-Noir</Genero>
+    <Recaudado>0</Recaudado>
+    <EntradasDisponibles>30</EntradasDisponibles>
+  </Peliculas>
+</ArrayOfPeliculas>

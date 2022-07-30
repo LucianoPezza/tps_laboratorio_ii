@@ -1,0 +1,21 @@
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\bin\Debug\net5.0-windows\Mi calculadora.exe
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\bin\Debug\net5.0-windows\Mi calculadora.deps.json
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\bin\Debug\net5.0-windows\Mi calculadora.runtimeconfig.json
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\bin\Debug\net5.0-windows\Mi calculadora.runtimeconfig.dev.json
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\bin\Debug\net5.0-windows\Mi calculadora.dll
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\bin\Debug\net5.0-windows\Mi calculadora.pdb
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\Mi calculadora.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\Mi_calculadora.FormCalculadora.resources
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\Mi calculadora.csproj.GenerateResource.cache
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\Mi calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\Mi calculadora.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\Mi calculadora.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\Mi calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\Mi calculadora.dll
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\refint\Mi calculadora.dll
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\Mi calculadora.pdb
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\Mi calculadora.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\ref\Mi calculadora.dll
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Luciano\Desktop\TP1\Mi calculadora\obj\Debug\net5.0-windows\Mi calculadora.csproj.CopyComplete

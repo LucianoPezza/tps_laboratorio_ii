@@ -1,0 +1,9 @@
+Primero y principal se necesita crear y conectar a la base de datos para poder acceder al formulario(les dejo el bak).
+
+El tp consta de una lista de peliculas la cual se venden sus entradas la cual tienen limite pero se reestablece automaticamente luego de 5 segundos ya que
+una vez termina la pelicula se pueden volver a vender entradas de esa misma pelicula (establezco 5 segundos para conveniencia de la correcion).
+basicamente se vende una pelicula seleccionando en una de las filas del datagrid, luego se descontara entradas segun la cantidad comprada y subira el valor del atributo
+recaudado en base a la seleccion entre 2d y 3d. Cada venta que se realize va a quedar guardada en la base de datos, si queremos serializar algo sea xml o json debemos volver 
+al form principal y ahi estan 2 botones que nos permiten guardarlo. Tambien en el menu principal hay un label que se va acutalizando gracias aun metodo de extension de
+la lista peliculas que va calculando lo recaudado hasta el momento
+ 
