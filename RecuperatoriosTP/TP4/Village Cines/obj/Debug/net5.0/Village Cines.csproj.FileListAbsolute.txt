@@ -10,3 +10,15 @@ L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Village Cines\obj\Debug\net5.0\V
 L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Village Cines\obj\Debug\net5.0\refint\Village Cines.dll
 L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Village Cines\obj\Debug\net5.0\Village Cines.pdb
 L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Village Cines\obj\Debug\net5.0\ref\Village Cines.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\Village Cines\bin\Debug\net5.0\Village Cines.deps.json
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\Village Cines\bin\Debug\net5.0\Village Cines.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\Village Cines\bin\Debug\net5.0\Village Cines.pdb
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\Village Cines\obj\Debug\net5.0\Village Cines.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\Village Cines\obj\Debug\net5.0\Village Cines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\Village Cines\obj\Debug\net5.0\Village Cines.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\Village Cines\obj\Debug\net5.0\Village Cines.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\Village Cines\obj\Debug\net5.0\Village Cines.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\Village Cines\obj\Debug\net5.0\Village Cines.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\Village Cines\obj\Debug\net5.0\refint\Village Cines.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\Village Cines\obj\Debug\net5.0\Village Cines.pdb
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\Village Cines\obj\Debug\net5.0\ref\Village Cines.dll

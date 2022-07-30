@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\FormPrincipal\\FormPrincipal.csproj": {}
+    "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\FormPrincipal\\FormPrincipal.csproj": {}
   },
   "projects": {
-    "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\FormPrincipal\\FormPrincipal.csproj": {
+    "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\FormPrincipal\\FormPrincipal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\FormPrincipal\\FormPrincipal.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\FormPrincipal\\FormPrincipal.csproj",
         "projectName": "FormPrincipal",
-        "projectPath": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\FormPrincipal\\FormPrincipal.csproj",
+        "projectPath": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\FormPrincipal\\FormPrincipal.csproj",
         "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-        "outputPath": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\FormPrincipal\\obj\\",
+        "outputPath": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\FormPrincipal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luciano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Village Cines\\Village Cines.csproj": {
-                "projectPath": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Village Cines\\Village Cines.csproj"
+              "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Village Cines\\Village Cines.csproj": {
+                "projectPath": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Village Cines\\Village Cines.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Village Cines\\Village Cines.csproj": {
+    "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Village Cines\\Village Cines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Village Cines\\Village Cines.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Village Cines\\Village Cines.csproj",
         "projectName": "Village Cines",
-        "projectPath": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Village Cines\\Village Cines.csproj",
+        "projectPath": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Village Cines\\Village Cines.csproj",
         "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-        "outputPath": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Village Cines\\obj\\",
+        "outputPath": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Village Cines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luciano\\AppData\\Roaming\\NuGet\\NuGet.Config",

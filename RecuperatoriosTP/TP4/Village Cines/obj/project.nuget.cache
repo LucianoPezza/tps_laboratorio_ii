@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5MG5GJPk8hVCvSPVJ2WzDZk9I1KWtOfBVkhRMm7idSrAHVrjzDcBCNkB8HI+LxJr9/rd4n/slAyzat0IaU5Deg==",
+  "dgSpecHash": "iXyeJBfuIzrfgUlO4oVWR27SI/jnsf+vRpuxctdGo0q5CsgzQISd3Af8cbs74VYeqFuDrL9TFZm9J5z9zhR7NQ==",
   "success": true,
-  "projectFilePath": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Village Cines\\Village Cines.csproj",
+  "projectFilePath": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Village Cines\\Village Cines.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tfww0iCT7n3amc7xbORCgCEzY89Sj2P6aOTM3DtUo2jFCOdtMDCuoFqjS+2fpJFizkOlVii+A0W0Ea877iWFgQ==",
+  "dgSpecHash": "sFXFAO9f+a02LAdYu+eto8IZ0GXi3HHbP+jBLpt1QR+YDpN30Mboimcs8PyxCDV3hVizwR/mYCGoJxXCtUCM+w==",
   "success": true,
-  "projectFilePath": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\FormPrincipal\\FormPrincipal.csproj",
+  "projectFilePath": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\FormPrincipal\\FormPrincipal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

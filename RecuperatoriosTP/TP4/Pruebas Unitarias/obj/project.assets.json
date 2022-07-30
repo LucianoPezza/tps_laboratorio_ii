@@ -6556,11 +6556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Pruebas Unitarias\\Pruebas Unitarias.csproj",
+      "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Pruebas Unitarias\\Pruebas Unitarias.csproj",
       "projectName": "Pruebas Unitarias",
-      "projectPath": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Pruebas Unitarias\\Pruebas Unitarias.csproj",
+      "projectPath": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Pruebas Unitarias\\Pruebas Unitarias.csproj",
       "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-      "outputPath": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Pruebas Unitarias\\obj\\",
+      "outputPath": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Pruebas Unitarias\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luciano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6577,8 +6577,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Village Cines\\Village Cines.csproj": {
-              "projectPath": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Village Cines\\Village Cines.csproj"
+            "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Village Cines\\Village Cines.csproj": {
+              "projectPath": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Village Cines\\Village Cines.csproj"
             }
           }
         }

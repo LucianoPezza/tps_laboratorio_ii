@@ -28,3 +28,33 @@ L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-w
 L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.genruntimeconfig.cache
 L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\ref\FormPrincipal.dll
 L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.FormVentaDeEntradas2.resources
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.exe
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.deps.json
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.runtimeconfig.json
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.runtimeconfig.dev.json
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.pdb
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\Village Cines.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\bin\Debug\net5.0-windows\Village Cines.pdb
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.FormVentaDeEntradas_.resources
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.FormVentaDeEntradas2.resources
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.Properties.Resources.resources
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.FormVillagePrincipal.resources
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.CopyComplete
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\refint\FormPrincipal.dll
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.pdb
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\tps_laboratorio_ii-main\RecuperatoriosTP\TP4\FormPrincipal\obj\Debug\net5.0-windows\ref\FormPrincipal.dll

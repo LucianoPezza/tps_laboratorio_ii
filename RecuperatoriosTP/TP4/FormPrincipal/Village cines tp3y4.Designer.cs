@@ -32,9 +32,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.btnVender = new System.Windows.Forms.Button();
             this.lblTotalRecaudado = new System.Windows.Forms.Label();
-            this.btnCargarDatos = new System.Windows.Forms.Button();
             this.btnGuardar = new System.Windows.Forms.Button();
-            this.btnGuardarInfoComo = new System.Windows.Forms.Button();
             this.btnGuaradarComo = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -83,13 +81,6 @@
             this.lblTotalRecaudado.TabIndex = 6;
             this.lblTotalRecaudado.Text = "Total Recaudado: ";
             // 
-            // btnCargarDatos
-            // 
-            this.btnCargarDatos.Location = new System.Drawing.Point(0, 0);
-            this.btnCargarDatos.Name = "btnCargarDatos";
-            this.btnCargarDatos.Size = new System.Drawing.Size(75, 23);
-            this.btnCargarDatos.TabIndex = 9;
-            // 
             // btnGuardar
             // 
             this.btnGuardar.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
@@ -102,13 +93,6 @@
             this.btnGuardar.Text = "Guardar \r\nEn json o xml\r\n";
             this.btnGuardar.UseVisualStyleBackColor = false;
             this.btnGuardar.Click += new System.EventHandler(this.button1_Click_1);
-            // 
-            // btnGuardarInfoComo
-            // 
-            this.btnGuardarInfoComo.Location = new System.Drawing.Point(0, 0);
-            this.btnGuardarInfoComo.Name = "btnGuardarInfoComo";
-            this.btnGuardarInfoComo.Size = new System.Drawing.Size(75, 23);
-            this.btnGuardarInfoComo.TabIndex = 0;
             // 
             // btnGuaradarComo
             // 
@@ -130,9 +114,7 @@
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(1182, 594);
             this.Controls.Add(this.btnGuaradarComo);
-            this.Controls.Add(this.btnGuardarInfoComo);
             this.Controls.Add(this.btnGuardar);
-            this.Controls.Add(this.btnCargarDatos);
             this.Controls.Add(this.lblTotalRecaudado);
             this.Controls.Add(this.btnVender);
             this.Controls.Add(this.label2);
@@ -152,9 +134,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnVender;
         private System.Windows.Forms.Label lblTotalRecaudado;
-        private System.Windows.Forms.Button btnCargarDatos;
         private System.Windows.Forms.Button btnGuardar;
-        private System.Windows.Forms.Button btnGuardarInfoComo;
         private System.Windows.Forms.Button btnGuaradarComo;
     }
 }

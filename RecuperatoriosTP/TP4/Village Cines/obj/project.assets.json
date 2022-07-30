@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Village Cines\\Village Cines.csproj",
+      "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Village Cines\\Village Cines.csproj",
       "projectName": "Village Cines",
-      "projectPath": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Village Cines\\Village Cines.csproj",
+      "projectPath": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Village Cines\\Village Cines.csproj",
       "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-      "outputPath": "L:\\Cosas\\Escritorio\\Cosas\\UTN\\C#\\Ejercicios\\TP4\\Village Cines\\obj\\",
+      "outputPath": "C:\\Users\\Luciano\\Desktop\\tps_laboratorio_ii-main\\RecuperatoriosTP\\TP4\\Village Cines\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luciano\\AppData\\Roaming\\NuGet\\NuGet.Config",
