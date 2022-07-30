@@ -1,0 +1,108 @@
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\CoverletSourceRootsMapping
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\testhost.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\testhost.exe
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.TestPlatform.AdapterUtilities.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Pruebas Unitarias.deps.json
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Pruebas Unitarias.runtimeconfig.json
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Pruebas Unitarias.runtimeconfig.dev.json
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Pruebas Unitarias.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Pruebas Unitarias.pdb
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Newtonsoft.Json.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\NuGet.Frameworks.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\System.Data.SqlClient.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Village Cines.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\bin\Debug\net5.0\Village Cines.pdb
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\obj\Debug\net5.0\Pruebas Unitarias.csproj.AssemblyReference.cache
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\obj\Debug\net5.0\Pruebas Unitarias.GeneratedMSBuildEditorConfig.editorconfig
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\obj\Debug\net5.0\Pruebas Unitarias.AssemblyInfoInputs.cache
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\obj\Debug\net5.0\Pruebas Unitarias.AssemblyInfo.cs
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\obj\Debug\net5.0\Pruebas Unitarias.csproj.CoreCompileInputs.cache
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\obj\Debug\net5.0\Pruebas Unitarias.csproj.CopyComplete
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\obj\Debug\net5.0\Pruebas Unitarias.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\obj\Debug\net5.0\refint\Pruebas Unitarias.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\obj\Debug\net5.0\Pruebas Unitarias.pdb
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\obj\Debug\net5.0\Pruebas Unitarias.genruntimeconfig.cache
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\Pruebas Unitarias\obj\Debug\net5.0\ref\Pruebas Unitarias.dll

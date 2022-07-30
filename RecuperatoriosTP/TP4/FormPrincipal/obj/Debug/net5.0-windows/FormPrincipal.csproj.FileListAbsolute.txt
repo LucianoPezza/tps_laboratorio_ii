@@ -1,0 +1,30 @@
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.AssemblyReference.cache
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.FormVillagePrincipal.resources
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.FormVentaDeEntradas_.resources
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.Properties.Resources.resources
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.GenerateResource.cache
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.AssemblyInfoInputs.cache
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.AssemblyInfo.cs
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.CoreCompileInputs.cache
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.exe
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.deps.json
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.runtimeconfig.json
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.runtimeconfig.dev.json
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.pdb
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\Village Cines.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\bin\Debug\net5.0-windows\Village Cines.pdb
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.CopyComplete
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\refint\FormPrincipal.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.pdb
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.genruntimeconfig.cache
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\ref\FormPrincipal.dll
+L:\Cosas\Escritorio\Cosas\UTN\C#\Ejercicios\TP4\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.FormVentaDeEntradas2.resources
